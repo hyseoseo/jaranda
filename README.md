@@ -63,7 +63,7 @@
 
 > Netlify 무료배포 사이트를 이용하였습니다.
 
-[자란다 사이트 GO 🏄🏻](https://reverent-leavitt-b468d2.netlify.app)
+[자란다 사이트 GO 🏄🏻] (https://cranky-allen-e2da94.netlify.app)
 
 어드민 계정 정보 
 | ID              | P/W           |
